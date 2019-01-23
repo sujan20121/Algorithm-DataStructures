@@ -1,0 +1,8 @@
+given an integer array, output all the unique pairs that sum upto a specific value K
+
+example : ([1,3,2,2],4)
+
+would return 2 pairs
+
+(1,3)
+(2,2)
