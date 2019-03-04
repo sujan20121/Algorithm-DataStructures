@@ -22,7 +22,7 @@ class stack(object):
         else:
             popped = self.head
             self.head = popped.Next
-            return popped
+            return popped.val
     
     def print_head(self):
         if self.head is None:
